@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379163963909",
+    "project_id": "lahari-jan",
+    "storage_bucket": "lahari-jan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379163963909:android:80d23cf49213a82f04226c",
+        "android_client_info": {
+          "package_name": "com.example.laharijan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379163963909-0fjcf5n66vdrq5h8kpo0g99klai937r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKN0piPW0Fu3q7iaOCPVwJKFKmcJcWkic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379163963909-0fjcf5n66vdrq5h8kpo0g99klai937r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
